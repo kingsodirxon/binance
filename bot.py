@@ -1,5 +1,5 @@
 print("hello world")
 
-a = "s"
-b = "b"
+a = "leg"
+b = "end"
 print(a + b)
